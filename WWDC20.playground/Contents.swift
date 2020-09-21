@@ -8,7 +8,7 @@
   * Callout(Hint):    Make sure you can see the full Live View. You can move the scene to the left and right with the  A / D keys on the keyboard.
  
  */
-//load the scened
+//load the scene
 loadPrgm(true)
 
 //open the scene
